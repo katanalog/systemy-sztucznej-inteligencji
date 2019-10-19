@@ -3,7 +3,7 @@
 1. Tworzymy **publiczne** repozytorium w platformie [GitHub](https://github.com/)
    - Repository name: `uwm-ssi`,
    - Description: `Numer indeksu: {numer_indeksu}`,
-   - Zaznaczamy `Initialize this repository with a README`,
+   - Zaznaczamy: `Initialize this repository with a README`,
    - Add .gitignore: `Python`.
    - Add a license: `MIT`.
 2. Klonujemy repozytorium do następującej lokacji:
