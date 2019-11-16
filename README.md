@@ -17,6 +17,5 @@
 
 - [Systemy Sztucznej Inteligencji](https://usosweb.uwm.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=2317N2-SYSZIN)
 
-## Zadania wykonywane na ćwiczeniach:
 
-- [Repozytorium z zajęciami](https://github.com/lukzmu/uwm-systemy-sztucznej-inteligencji)
+**Zadania zostały przygotowane przez [dr hab. Piotra Artiemjewa, prof. UWM](http://wmii.uwm.edu.pl/~artem).**
